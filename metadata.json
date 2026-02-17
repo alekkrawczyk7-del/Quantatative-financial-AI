@@ -1,0 +1,7 @@
+{
+  "name": "Quanta.AI",
+  "description": "Professional-grade quantitative financial analysis platform featuring predictive modeling, deal sourcing, and global resource tracking powered by advanced Gemini models.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
